@@ -1,0 +1,61 @@
+
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f6f5f0;
+      color: #2f3e46;
+      line-height: 1.6;
+    }
+    
+    header {
+      background-color: #a8c686;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    
+    header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 3rem;
+    }
+    
+    .intro {
+      padding: 3rem 1.5rem;
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    
+    .intro p {
+      font-size: 1.2rem;
+      margin-bottom: 1.5rem;
+    }
+    
+    .cta-button {
+      background-color: #6b8e23;
+      color: white;
+      border: none;
+      padding: 0.75rem 1.5rem;
+      font-size: 1rem;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
+    
+    .cta-button:hover {
+      background-color: #567d1d;
+    }
+
+    
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      color: #888;
+    }
+    
