@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MatcaBase</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Inter&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="MatchaStyle.css">
+</head>
+<body>
+  <header>
+    <h1>🌻MatchaBase🍃</h1>
+    <p>your daily dose of calm, creativity, and green bliss</p>
+  </header>
+
+  <section class="intro">
+      <p>welcome to your new ritual. discover the benefits, recipes, and rituals of high-quality matcha. whether you're new to it or a long-time fan, matcha moments is your tranquil corner of the internet.</p>
+      <button class="cta-button">get recipe!</button>
+      <button class="cta-button">discover matcha</button>
+      <br>
+      <br>
+      <button class="cta-button">discover coffee shops in ankara! </button>
+
+  </section>
+
+  
+
+  <footer>
+    © 2025 matcha lovers
+    <p>🌻🍃🌿☘️</p>
+    <p>in matcha we trust!!!!</p>
+    <p>🍀</p>
+  </footer>
+</body>
+</html>
